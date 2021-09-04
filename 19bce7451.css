@@ -1,0 +1,28 @@
+.box{
+	display: flex;
+	background-color: lightpink;
+	text-align: right;
+	padding: 1%;
+	margin-left: 32%;
+	margin-right: 32%;
+	margin-top: 5%;
+}
+
+span{
+	color: red;
+}
+
+label{
+	color: blueviolet;
+	text-align-last: right;
+	font-size: 24px;
+}
+
+input{
+	width: 150px;
+}
+
+#btn{
+	width: 80px;
+	background-color: crimson;
+}
